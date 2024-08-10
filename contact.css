@@ -1,0 +1,103 @@
+.contact{
+    text-align: center;
+    
+}
+.contact p{
+    /* float: left; */
+    margin-bottom: 50px;
+}
+.map{
+    width: 100%;
+    float: left;
+    margin-bottom: 50px;
+    /* margin-left: 2px;
+    border-right: 2px; */
+    /* border:solid; */
+}
+.contact1{
+    width: 100%;
+}
+.ci1{
+    width: 10%;
+    float: left;
+}
+.ci1 i{
+    font-size: 40px;
+    margin-left: 200px;
+}
+.twitter i{
+    font-size: 30px;
+    float: left;
+    margin-top: 10px;
+}
+.twitter i:hover{
+    color: #2dc997
+}
+.ci1 a{
+    color: black;
+}
+.cin1{
+    width: 15%;
+    float: left;
+    margin-left: 100px;
+    padding: 4px;
+}          
+.socail{
+    font-size: 30px;
+    margin-top: -7px;
+    float: left;
+    padding: auto;
+    color: black;
+}
+.socail i:hover{
+    color: #2dc997
+    /* background-color: black; */
+}
+.socail a{
+    color: black;
+}
+
+.ctextbox{
+    width: 30%;
+    float: left;
+    /* background-color: black; */
+    margin-left: 80px;
+   
+}
+
+.form-control{
+    margin-bottom: 20PX;
+    font-size: 20px;
+    
+}
+.sub{
+    background-color: 
+    green;
+    font-size: 15px;
+    color: white;
+    padding: 5px;
+}
+.footer{
+    width: 100%;
+    float: left;
+    color: white;
+    /* text-align: center; */
+    margin-top: 50px;
+    background-color: rgb(56, 58, 58);
+    /* margin-bottom: 100px; */
+    padding-bottom: 30px;
+}
+.footer p{
+    text-align: center;
+    margin-top: 30px;
+}
+.ud{
+    text-align: center;
+    margin-top: 10px;
+}
+.ud a{
+    /* text-align: center; */
+    color: greenyellow;
+    text-decoration: none;
+
+}

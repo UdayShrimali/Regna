@@ -1,0 +1,53 @@
+.team{
+    text-align: center;
+}
+.team p{
+    font-size: 20px;
+    margin-bottom: 50px;
+}
+.team1{
+    width: 100%;
+    float: left;
+}
+.ti1{
+    float: left;
+    width: 20%;
+    margin-top: 7px;
+    margin-left: 40px; 
+}
+.ti1 p{
+    font-size: 15px;
+}
+.ti2{
+    float: left;
+    width: 20%;
+margin-top: 7px;
+    margin-left: 40px;
+  
+}
+.ti2 p{
+    font-size: 15px;
+}
+
+.ti3{
+    float: left;
+    width: 20%;
+    margin-left: 40px;
+    margin-top: 7px;
+    /* margin-bottom: 50px; */
+  
+}
+.ti3 p{
+    font-size: 15px;
+}
+.ti4{
+    float: left;
+    width: 20%;
+    margin-left: 40px;
+    margin-top: -11px;
+    /* margin-bottom: 50px; */
+  
+}
+.ti4 p{
+    font-size: 15px;
+}
